@@ -8,7 +8,7 @@ def hello_t(array)
     end
     array
   end
-
+end
 
 
   hello_t(["Tim", "Tom", "Jim"]) do |name|
